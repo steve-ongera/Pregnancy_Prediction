@@ -1,0 +1,66 @@
+age,education_level,previous_pregnancies,marital_status,socioeconomic_status,region,early_pregnancy
+15,High School,0,Single,Low,Urban,1
+16,High School,0,Single,Low,Rural,1
+17,High School,1,Single,Low,Rural,1
+18,Some College,1,Single,Low,Urban,1
+19,Some College,1,Single,Medium,Urban,1
+20,Bachelor's,0,Married,Medium,Urban,0
+21,Bachelor's,0,Married,Medium,Rural,0
+22,Bachelor's,2,Married,Medium,Urban,0
+23,Bachelor's,1,Single,High,Urban,0
+24,Master's,1,Married,High,Rural,0
+25,Master's,0,Married,High,Urban,0
+26,Master's,2,Married,High,Rural,0
+27,Doctorate,1,Married,High,Urban,0
+28,Doctorate,0,Single,High,Urban,0
+29,Doctorate,1,Married,High,Rural,0
+30,Doctorate,2,Married,High,Rural,0
+31,Bachelor's,1,Single,Medium,Rural,0
+15,High School,0,Single,Low,Urban,1
+16,High School,0,Single,Low,Rural,1
+17,High School,1,Single,Low,Rural,1
+18,Some College,1,Single,Low,Urban,1
+19,Some College,1,Single,Medium,Urban,1
+20,Bachelor's,0,Married,Medium,Urban,0
+21,Bachelor's,0,Married,Medium,Rural,0
+22,Bachelor's,2,Married,Medium,Urban,0
+23,Bachelor's,1,Single,High,Urban,0
+24,Master's,1,Married,High,Rural,0
+25,Master's,0,Married,High,Urban,0
+26,Master's,2,Married,High,Rural,0
+27,Doctorate,1,Married,High,Urban,0
+28,Doctorate,0,Single,High,Urban,0
+29,Doctorate,1,Married,High,Rural,0
+30,Doctorate,2,Married,High,Rural,0
+15,High School,0,Single,Low,Urban,1
+16,High School,0,Single,Low,Rural,1
+17,High School,1,Single,Low,Rural,1
+18,Some College,1,Single,Low,Urban,1
+19,Some College,1,Single,Medium,Urban,1
+20,Bachelor's,0,Married,Medium,Urban,0
+21,Bachelor's,0,Married,Medium,Rural,0
+22,Bachelor's,2,Married,Medium,Urban,0
+23,Bachelor's,1,Single,High,Urban,0
+24,Master's,1,Married,High,Rural,0
+25,Master's,0,Married,High,Urban,0
+26,Master's,2,Married,High,Rural,0
+27,Doctorate,1,Married,High,Urban,0
+28,Doctorate,0,Single,High,Urban,0
+29,Doctorate,1,Married,High,Rural,0
+30,Doctorate,2,Married,High,Rural,0
+15,High School,0,Single,Low,Urban,1
+16,High School,0,Single,Low,Rural,1
+17,High School,1,Single,Low,Rural,1
+18,Some College,1,Single,Low,Urban,1
+19,Some College,1,Single,Medium,Urban,1
+20,Bachelor's,0,Married,Medium,Urban,0
+21,Bachelor's,0,Married,Medium,Rural,0
+22,Bachelor's,2,Married,Medium,Urban,0
+23,Bachelor's,1,Single,High,Urban,0
+24,Master's,1,Married,High,Rural,0
+25,Master's,0,Married,High,Urban,0
+26,Master's,2,Married,High,Rural,0
+27,Doctorate,1,Married,High,Urban,0
+28,Doctorate,0,Single,High,Urban,0
+29,Doctorate,1,Married,High,Rural,0
+30,Doctorate,2,Married,High,Rural,0
