@@ -36,7 +36,7 @@ To run this project, ensure you have Python installed on your machine. You will 
 
 ## Install the required packages:
 
-```
+
 pip install pandas scikit-learn 
 
 Prepare the dataset:
@@ -48,22 +48,21 @@ Run the prediction script:
 
 Execute the predict.py script to run the prediction model:
 
-bash
-Copy code
-python predict.py
+
+python predict_early_pregnancy.py
 Input your data:
 
 Modify the predict.py file to include the data for prediction based on the required format. Ensure the input data matches the format used in the CSV file.
 
-View the results:
+
+## View the results:
 
 After running the script, the output will display the prediction results, indicating the likelihood of early pregnancy based on the input data.
 
 Example Input
 You can provide input data in the following format:
 
-python
-Copy code
+
 input_data = {
     'age': 18,
     'education_level': 'Some College',
@@ -72,13 +71,17 @@ input_data = {
     'socioeconomic_status': 'Medium',
     'region': 'Urban'
 }
-Contributing
+
+
+## Contributing
 Contributions are welcome! If you have suggestions for improvements or would like to add features, feel free to fork the repository and submit a pull request.
 
-License
+
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgments
+
+## Acknowledgments
 Thanks to the contributors of open-source libraries such as Pandas and Scikit-Learn that made this project possible.
 Special thanks to the community for sharing datasets and knowledge in predictive modeling.
 Contact
